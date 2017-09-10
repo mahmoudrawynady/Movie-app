@@ -1,5 +1,2 @@
 # Movies
-# Movies
-# Movies App
-# Movies-App
-# movie-App
+This is The first project in android developer nanodrgree with udacity and contains first and second statges.
